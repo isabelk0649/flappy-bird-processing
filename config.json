@@ -1,0 +1,14 @@
+{
+	"window_size": [600, 800],
+	"scores_rect" : [[55,80], [350,350]],
+	"fontsize" : 20,
+	"speed" : 4,
+	"jump_height" : 12,
+	"wall_gap" : 100,
+	"start_button" : [[170,460], [440,550]],
+	"scores_button" : [[415,740], [535,790]],
+	"replay_button" : [[60,740], [185,790]],
+	"help_button" : [[240,740], [360,790]],
+	"back_button" : [[190,675], [410,775]],
+	"menu_button" : [[190,675], [410,760]]
+}
